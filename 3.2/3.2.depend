@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580887156 source:d:\codeblocks\hitcla\3.2\main.c
+	<stdio.h>
+	<stdlib.h>
+
